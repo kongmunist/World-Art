@@ -15,5 +15,4 @@ A set of python scrips converts an image to its barebones contours, and then map
 # A romantic getaway trip surrounding Pittsburgh:
 ![Screenshot](assets/heartResults.png)
 
-
-Hope you enjoy!
+Starting position of the route and size of the created image are all customizable through options that we did not make user-friendly to figure out. Hope you enjoy!
