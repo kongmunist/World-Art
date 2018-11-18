@@ -10,7 +10,7 @@ A set of python scrips converts an image to its barebones contours, and then map
 ![Screenshot](assets/teacherResults.png)
 
 # CMU's new President has his own emoji!
-![Screenshot](assets/farnumResults.png)
+![Screenshot](assets/emojiResults.png)
 
 # A romantic getaway trip surrounding Pittsburgh:
 ![Screenshot](assets/heartResults.png)
